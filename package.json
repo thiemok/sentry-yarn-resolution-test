@@ -1,0 +1,7 @@
+{
+  "name": "sentry-yarn-resolution-test",
+  "packageManager": "yarn@3.6.2",
+  "workspaces": [
+    "packages/*"
+  ]
+}
